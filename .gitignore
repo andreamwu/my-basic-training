@@ -1,5 +1,0 @@
-# 
-*.iml
-# ignore all files in any directory named .idea out
-/.idea
-/out
